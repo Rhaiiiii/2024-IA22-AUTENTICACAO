@@ -10,16 +10,19 @@ Crie um novo repositório no GitHub:
 
 ``3 ->`` Dê um nome ao seu repositório (ex: "Trabalho de programação") e clique em "Create repository".
 
+___
 
 ![.](./imagens/repositório.png)
 
----
+___
 
 ![.](./imagens/repositório2.png)
 
----
+___
 
 ![.](./imagens/repositório3.png)
+
+___
 
 ## 2. Inicializando o projeto Node.js
 
