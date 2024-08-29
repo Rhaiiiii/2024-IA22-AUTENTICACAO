@@ -13,11 +13,11 @@ Crie um novo repositório no GitHub:
 
 ![.](./imagens/repositório.png)
 
-
+---
 
 ![.](./imagens/repositório2.png)
 
-
+---
 
 ![.](./imagens/repositório3.png)
 
